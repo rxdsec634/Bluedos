@@ -1,6 +1,6 @@
 # RXDSEC Bluetooth Security Toolkit
 
-A high-performance Bluetooth security analysis toolkit designed for comprehensive device vulnerability assessment and targeted network penetration testing.
+A high-performance Bluetooth security analysis toolkit designed for comprehensive device vulnerability assessment and targeted network penetration testing. you need to extract zip for tool:
 
 ![Version](https://img.shields.io/badge/Version-2.0-red)
 ![Compatibility](https://img.shields.io/badge/Bluetooth-5.0/5.3-blue)

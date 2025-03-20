@@ -1,0 +1,4 @@
+colorama==0.4.6
+rich==13.7.1
+numpy==1.26.4
+bleak==0.22.2
